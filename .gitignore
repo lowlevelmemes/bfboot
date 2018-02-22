@@ -1,0 +1,7 @@
+bfboot
+*.bin
+*.tmp.bin
+*.tmp
+*.bf
+*.b
+*.img
