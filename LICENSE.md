@@ -1,4 +1,4 @@
-Copyright (c) <year>, <copyright holder>
+Copyright (c) 2018, mintsuki
 All rights reserved.
 
 Redistribution and use in source form, or binary form with accompanying source,
